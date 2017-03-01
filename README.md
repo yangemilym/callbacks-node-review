@@ -8,7 +8,7 @@
 ## Callback Practice
 
 - [ ] Complete the `getUsernames` function inside of `callback-practice.js`. The `getUsernames` function should take in an array of user Ids, and call the `callback` function with the array of usernames as its argument.
-- [ ] The user information should be retrieved from the JSON placeholder API: https://jsonplaceholder.typicode.com
+- [ ] A working implementation for a function that gets a single username is already provided. Utilize that function to complete `getUsernames`.
 
 
 
