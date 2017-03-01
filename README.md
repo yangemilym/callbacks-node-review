@@ -2,7 +2,7 @@
 
 ## Basic server
 
-- [ ] Implement a basic express web server in `basic-server.js` that accepts a GET request to `localhost:3000/users` and sends back a json response with 30 users. 
+- [ ] Implement a basic express web server in `basic-server.js` that accepts a GET request to `localhost:3000/users` and sends back a json response with 5 users. 
 - [ ] The user information should be retrieved from this url: `https://jsonplaceholder.typicode.com/users` using the `request` module.
 
 ## Callback Practice
